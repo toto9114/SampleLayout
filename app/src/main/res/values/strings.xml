@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SampleLayout</string>
+    <string name="btn_linear">Linear</string>
+    <string name="text_id">ID</string>
+    <string name="edit_id" />
+    <string name="text_pw">Password</string>
+    <string name="edit_pw" />
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_relative">Relative</string>
+</resources>
